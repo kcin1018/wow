@@ -37,12 +37,12 @@ QuestieTrackedQuests = {
 	},
 }
 QuestieConfig = {
-	["trackerAlpha"] = 0.4,
+	["trackerMinimize"] = false,
 	["minLevelFilter"] = false,
 	["maxShowLevel"] = 3,
 	["showToolTips"] = true,
 	["getVersion"] = 3.69,
-	["hideMinimapIcons"] = false,
+	["maxLevelFilter"] = false,
 	["arrowEnabled"] = true,
 	["hideObjectives"] = false,
 	["boldColors"] = false,
@@ -55,10 +55,10 @@ QuestieConfig = {
 	["resizeWorldmap"] = false,
 	["alwaysShowQuests"] = true,
 	["minShowLevel"] = 5,
-	["trackerMinimize"] = false,
+	["trackerAlpha"] = 0.4,
 	["showTrackerHeader"] = false,
 	["trackerList"] = false,
-	["maxLevelFilter"] = false,
+	["hideMinimapIcons"] = false,
 }
 QuestieTrackerVariables = {
 	["position"] = {
