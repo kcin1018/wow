@@ -35,11 +35,8 @@ QuestlogOptions = {
 		["CustomHeaderColor"] = 0,
 		["TrackerShowMinimizer"] = 0,
 		["LogOpacity"] = 1,
-		["HeaderList"] = {
-		},
-		["RemoveCompletedObjectives"] = 0,
-		["ItemTooltip"] = 0,
-		["MobTooltip"] = 0,
+		["ShowZonesInTracker"] = 1,
+		["AutoCompleteQuests"] = 0,
 		["Color"] = {
 			["TrackerBG"] = {
 				["a"] = 0,
@@ -52,10 +49,10 @@ QuestlogOptions = {
 				["g"] = 1,
 				["b"] = 1,
 			},
-			["Tooltip"] = {
+			["ObjectiveComplete"] = {
 				["r"] = 1,
-				["g"] = 0.8,
-				["b"] = 0,
+				["g"] = 1,
+				["b"] = 1,
 			},
 			["ObjectiveEmpty"] = {
 				["r"] = 0.8,
@@ -67,10 +64,10 @@ QuestlogOptions = {
 				["g"] = 0.61,
 				["b"] = 0,
 			},
-			["ObjectiveComplete"] = {
+			["Tooltip"] = {
 				["r"] = 1,
-				["g"] = 1,
-				["b"] = 1,
+				["g"] = 0.8,
+				["b"] = 0,
 			},
 			["HeaderComplete"] = {
 				["r"] = 1,
@@ -78,8 +75,11 @@ QuestlogOptions = {
 				["b"] = 0,
 			},
 		},
-		["AutoCompleteQuests"] = 0,
-		["ShowZonesInTracker"] = 1,
+		["MobTooltip"] = 0,
+		["ItemTooltip"] = 0,
+		["RemoveCompletedObjectives"] = 0,
+		["HeaderList"] = {
+		},
 	},
 	["Barkinator-Elysium"] = {
 		["LockTracker"] = 0,
@@ -116,8 +116,11 @@ QuestlogOptions = {
 		["CustomHeaderColor"] = 0,
 		["TrackerShowMinimizer"] = 0,
 		["LogOpacity"] = 1,
-		["ShowZonesInTracker"] = 1,
-		["AutoCompleteQuests"] = 0,
+		["HeaderList"] = {
+		},
+		["RemoveCompletedObjectives"] = 0,
+		["ItemTooltip"] = 0,
+		["MobTooltip"] = 0,
 		["Color"] = {
 			["TrackerBG"] = {
 				["a"] = 0,
@@ -130,10 +133,10 @@ QuestlogOptions = {
 				["g"] = 1,
 				["b"] = 1,
 			},
-			["ObjectiveComplete"] = {
+			["Tooltip"] = {
 				["r"] = 1,
-				["g"] = 1,
-				["b"] = 1,
+				["g"] = 0.8,
+				["b"] = 0,
 			},
 			["ObjectiveEmpty"] = {
 				["r"] = 0.8,
@@ -145,10 +148,10 @@ QuestlogOptions = {
 				["g"] = 0.61,
 				["b"] = 0,
 			},
-			["Tooltip"] = {
+			["ObjectiveComplete"] = {
 				["r"] = 1,
-				["g"] = 0.8,
-				["b"] = 0,
+				["g"] = 1,
+				["b"] = 1,
 			},
 			["HeaderComplete"] = {
 				["r"] = 1,
@@ -156,11 +159,8 @@ QuestlogOptions = {
 				["b"] = 0,
 			},
 		},
-		["MobTooltip"] = 0,
-		["ItemTooltip"] = 0,
-		["RemoveCompletedObjectives"] = 0,
-		["HeaderList"] = {
-		},
+		["AutoCompleteQuests"] = 0,
+		["ShowZonesInTracker"] = 1,
 	},
 	["Fizbun-Elysium"] = {
 		["LockTracker"] = 0,
@@ -197,11 +197,8 @@ QuestlogOptions = {
 		["CustomHeaderColor"] = 0,
 		["TrackerShowMinimizer"] = 0,
 		["LogOpacity"] = 1,
-		["HeaderList"] = {
-		},
-		["RemoveCompletedObjectives"] = 0,
-		["ItemTooltip"] = 0,
-		["MobTooltip"] = 0,
+		["ShowZonesInTracker"] = 1,
+		["AutoCompleteQuests"] = 0,
 		["Color"] = {
 			["TrackerBG"] = {
 				["a"] = 0,
@@ -214,10 +211,10 @@ QuestlogOptions = {
 				["g"] = 1,
 				["b"] = 1,
 			},
-			["Tooltip"] = {
+			["ObjectiveComplete"] = {
 				["r"] = 1,
-				["g"] = 0.8,
-				["b"] = 0,
+				["g"] = 1,
+				["b"] = 1,
 			},
 			["ObjectiveEmpty"] = {
 				["r"] = 0.8,
@@ -229,10 +226,10 @@ QuestlogOptions = {
 				["g"] = 0.61,
 				["b"] = 0,
 			},
-			["ObjectiveComplete"] = {
+			["Tooltip"] = {
 				["r"] = 1,
-				["g"] = 1,
-				["b"] = 1,
+				["g"] = 0.8,
+				["b"] = 0,
 			},
 			["HeaderComplete"] = {
 				["r"] = 1,
@@ -240,8 +237,11 @@ QuestlogOptions = {
 				["b"] = 0,
 			},
 		},
-		["AutoCompleteQuests"] = 0,
-		["ShowZonesInTracker"] = 1,
+		["MobTooltip"] = 0,
+		["ItemTooltip"] = 0,
+		["RemoveCompletedObjectives"] = 0,
+		["HeaderList"] = {
+		},
 	},
 	["Adofo-Elysium"] = {
 		["LockTracker"] = 0,
@@ -278,11 +278,8 @@ QuestlogOptions = {
 		["CustomHeaderColor"] = 0,
 		["TrackerShowMinimizer"] = 0,
 		["LogOpacity"] = 1,
-		["HeaderList"] = {
-		},
-		["RemoveCompletedObjectives"] = 0,
-		["ItemTooltip"] = 0,
-		["MobTooltip"] = 0,
+		["ShowZonesInTracker"] = 1,
+		["AutoCompleteQuests"] = 0,
 		["Color"] = {
 			["TrackerBG"] = {
 				["a"] = 0,
@@ -295,10 +292,10 @@ QuestlogOptions = {
 				["g"] = 1,
 				["b"] = 1,
 			},
-			["Tooltip"] = {
+			["ObjectiveComplete"] = {
 				["r"] = 1,
-				["g"] = 0.8,
-				["b"] = 0,
+				["g"] = 1,
+				["b"] = 1,
 			},
 			["ObjectiveEmpty"] = {
 				["r"] = 0.8,
@@ -310,10 +307,10 @@ QuestlogOptions = {
 				["g"] = 0.61,
 				["b"] = 0,
 			},
-			["ObjectiveComplete"] = {
+			["Tooltip"] = {
 				["r"] = 1,
-				["g"] = 1,
-				["b"] = 1,
+				["g"] = 0.8,
+				["b"] = 0,
 			},
 			["HeaderComplete"] = {
 				["r"] = 1,
@@ -321,8 +318,11 @@ QuestlogOptions = {
 				["b"] = 0,
 			},
 		},
-		["AutoCompleteQuests"] = 0,
-		["ShowZonesInTracker"] = 1,
+		["MobTooltip"] = 0,
+		["ItemTooltip"] = 0,
+		["RemoveCompletedObjectives"] = 0,
+		["HeaderList"] = {
+		},
 	},
 	["Gilza-Elysium"] = {
 		["LockTracker"] = 0,
@@ -359,8 +359,11 @@ QuestlogOptions = {
 		["CustomHeaderColor"] = 0,
 		["TrackerShowMinimizer"] = 0,
 		["LogOpacity"] = 1,
-		["ShowZonesInTracker"] = 1,
-		["AutoCompleteQuests"] = 0,
+		["HeaderList"] = {
+		},
+		["RemoveCompletedObjectives"] = 0,
+		["ItemTooltip"] = 0,
+		["MobTooltip"] = 0,
 		["Color"] = {
 			["TrackerBG"] = {
 				["a"] = 0,
@@ -373,10 +376,10 @@ QuestlogOptions = {
 				["g"] = 1,
 				["b"] = 1,
 			},
-			["ObjectiveComplete"] = {
+			["Tooltip"] = {
 				["r"] = 1,
-				["g"] = 1,
-				["b"] = 1,
+				["g"] = 0.8,
+				["b"] = 0,
 			},
 			["ObjectiveEmpty"] = {
 				["r"] = 0.8,
@@ -388,10 +391,10 @@ QuestlogOptions = {
 				["g"] = 0.61,
 				["b"] = 0,
 			},
-			["Tooltip"] = {
+			["ObjectiveComplete"] = {
 				["r"] = 1,
-				["g"] = 0.8,
-				["b"] = 0,
+				["g"] = 1,
+				["b"] = 1,
 			},
 			["HeaderComplete"] = {
 				["r"] = 1,
@@ -399,11 +402,8 @@ QuestlogOptions = {
 				["b"] = 0,
 			},
 		},
-		["MobTooltip"] = 0,
-		["ItemTooltip"] = 0,
-		["RemoveCompletedObjectives"] = 0,
-		["HeaderList"] = {
-		},
+		["AutoCompleteQuests"] = 0,
+		["ShowZonesInTracker"] = 1,
 	},
 	["Macre-Elysium"] = {
 		["LockTracker"] = 0,
@@ -440,8 +440,11 @@ QuestlogOptions = {
 		["CustomHeaderColor"] = 0,
 		["TrackerShowMinimizer"] = 0,
 		["LogOpacity"] = 1,
-		["ShowZonesInTracker"] = 1,
-		["AutoCompleteQuests"] = 0,
+		["HeaderList"] = {
+		},
+		["RemoveCompletedObjectives"] = 0,
+		["ItemTooltip"] = 0,
+		["MobTooltip"] = 0,
 		["Color"] = {
 			["TrackerBG"] = {
 				["a"] = 0,
@@ -454,10 +457,10 @@ QuestlogOptions = {
 				["g"] = 1,
 				["b"] = 1,
 			},
-			["ObjectiveComplete"] = {
+			["Tooltip"] = {
 				["r"] = 1,
-				["g"] = 1,
-				["b"] = 1,
+				["g"] = 0.8,
+				["b"] = 0,
 			},
 			["ObjectiveEmpty"] = {
 				["r"] = 0.8,
@@ -469,10 +472,10 @@ QuestlogOptions = {
 				["g"] = 0.61,
 				["b"] = 0,
 			},
-			["Tooltip"] = {
+			["ObjectiveComplete"] = {
 				["r"] = 1,
-				["g"] = 0.8,
-				["b"] = 0,
+				["g"] = 1,
+				["b"] = 1,
 			},
 			["HeaderComplete"] = {
 				["r"] = 1,
@@ -480,65 +483,73 @@ QuestlogOptions = {
 				["b"] = 0,
 			},
 		},
-		["MobTooltip"] = 0,
-		["ItemTooltip"] = 0,
-		["RemoveCompletedObjectives"] = 0,
-		["HeaderList"] = {
-		},
+		["AutoCompleteQuests"] = 0,
+		["ShowZonesInTracker"] = 1,
 	},
 }
 QuestLevel_Quest2Level = {
-	["Wharfmaster Dizzywig"] = "<11¤",
-	["Arikara"] = "@x¤<28¤",
 	["Deathstalkers in Shadowfang"] = "@x¤<25¤",
 	["Consumed by Hatred"] = "<20¤",
 	["Altered Beings"] = "<16¤",
+	["Hammerfall"] = "<34¤",
+	["Steelsnap"] = "<30¤",
+	["Trial of the Sea Lion"] = "<16¤",
+	["The Engraved Ring"] = "<16¤",
+	["Test of Lore"] = "@¤>36¤<30¤",
+	["Harpy Raiders"] = "<15¤",
+	["Compendium of the Fallen"] = "@x¤<38¤",
+	["Samophlange"] = "<14¤",
+	["Raleigh and the Undercity"] = "<16¤",
+	["The Hammer May Fall"] = "<32¤",
+	["Arugal Must Die"] = "@x¤<27¤",
+	["An Unholy Alliance"] = "@x¤<36¤",
+	["Lost in Battle"] = "<20¤",
+	["Regthar Deathgate"] = "<32¤",
+	["Frostmaw"] = "<37¤",
+	["Isha Awak"] = "<27¤",
+	["The Forgotten Pools"] = "<13¤",
+	["Fungal Spores"] = "<15¤",
+	["The Disruption Ends"] = "<15¤",
+	["Smart Drinks"] = "@x¤<18¤",
+	["Deepmoss Spider Eggs"] = "<20¤",
+	["Wharfmaster Dizzywig"] = "<11¤",
+	["Arikara"] = "@x¤<28¤",
 	["Prowlers of the Barrens"] = "<15¤",
 	["Mahren Skyseer"] = "<27¤",
 	["Report to Kadrak"] = "<19¤",
-	["Steelsnap"] = "<30¤",
-	["Testing an Enemy's Strength"] = "@x¤<15¤",
-	["The Engraved Ring"] = "<16¤",
-	["Test of Strength"] = "@x¤<30¤",
-	["The Zhevra"] = "<13¤",
-	["Harpy Raiders"] = "<15¤",
+	["Seeking Strahad"] = "<30¤",
 	["The Guns of Northwatch"] = "<20¤",
 	["Leaders of the Fang"] = "@x¤<22¤",
 	["Deviate Eradication"] = "@x¤<21¤",
-	["Compendium of the Fallen"] = "@x¤<38¤",
 	["Trouble at the Docks"] = "<18¤",
-	["Samophlange"] = "<14¤",
-	["Hypercapacitor Gizmo"] = "@x¤<30¤",
 	["Egg Hunt"] = "<22¤",
-	["A Husband's Revenge"] = "<20¤",
-	["The Power to Destroy..."] = "@x¤<16¤",
-	["Test of Lore"] = "<30¤",
+	["Verog the Dervish"] = "<18¤",
+	["Raising Spirits"] = "<34¤",
 	["A New Ore Sample"] = "<29¤",
-	["Raleigh and the Undercity"] = "<16¤",
-	["To Steal From Thieves"] = "<36¤",
+	["Hearts of Zeal"] = "<33¤",
 	["Raptor Horns"] = "<18¤",
 	["Letter to Jin'Zil"] = "<20¤",
 	["Slaying the Beast"] = "@x¤<16¤",
 	["Ziz Fizziks"] = "<21¤",
-	["Stolen Silver"] = "<18¤",
-	["WANTED: Baron Longshore"] = "<16¤",
-	["An Unholy Alliance"] = "@x¤<36¤",
-	["Lost in Battle"] = "<20¤",
-	["Supplies for the Crossroads"] = "<14¤",
-	["Southsea Freebooters"] = "<14¤",
 	["Serpentbloom"] = "<18¤",
-	["Raptor Thieves"] = "<13¤",
-	["Miner's Fortune"] = "<18¤",
-	["Hearts of Zeal"] = "<33¤",
-	["Isha Awak"] = "<27¤",
-	["Verog the Dervish"] = "<18¤",
-	["The Forgotten Pools"] = "<13¤",
-	["Hidden Enemies"] = "@x¤<16¤",
-	["Fungal Spores"] = "<15¤",
-	["Arugal Must Die"] = "@x¤<27¤",
-	["Trial of the Sea Lion"] = "<16¤",
+	["WANTED: Baron Longshore"] = "<16¤",
 	["The Angry Scytheclaws"] = "<17¤",
-	["The Disruption Ends"] = "<15¤",
+	["Stolen Silver"] = "<18¤",
+	["To Steal From Thieves"] = "<36¤",
+	["Alliance Relations"] = "<30¤",
+	["Testing an Enemy's Strength"] = "@x¤<15¤",
+	["The Glowing Shard"] = "<26¤",
+	["Test of Strength"] = "@x¤<30¤",
+	["Hidden Enemies"] = "@x¤<16¤",
+	["The Power to Destroy..."] = "@x¤<16¤",
+	["The Zhevra"] = "<13¤",
+	["A Husband's Revenge"] = "<20¤",
 	["Test of Endurance"] = "@x¤<30¤",
-	["Smart Drinks"] = "@x¤<18¤",
+	["Miner's Fortune"] = "<18¤",
+	["Hypercapacitor Gizmo"] = "@x¤<30¤",
+	["Raptor Thieves"] = "<13¤",
+	["Components for the Enchanted Gold Bloodrobe"] = "<31¤",
+	["Southsea Freebooters"] = "<14¤",
+	["Supplies for the Crossroads"] = "<14¤",
+	["Tome of the Cabal"] = "<30¤",
 }
