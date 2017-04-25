@@ -1,0 +1,8 @@
+/*.exe
+/*.dll
+/Data/
+/Documentation/
+/Errors/
+/Logs/
+/WDB/
+/Interface/AddOns/Blizzard*
