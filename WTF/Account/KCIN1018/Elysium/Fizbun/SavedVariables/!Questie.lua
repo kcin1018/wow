@@ -1,0 +1,71 @@
+
+QuestieSeenQuests = {
+	[2590765442] = 1,
+	[3989126474] = 1,
+	[1645996690] = 1,
+	[953471738] = 0,
+	[1517467578] = 1,
+	[1565504386] = 0,
+	[2609917898] = 1,
+	[2202183506] = 1,
+	[3233580066] = 0,
+	[1294977714] = 0,
+	[2293654250] = 0,
+	[1106765282] = 1,
+	[3269431154] = 1,
+	[3541494730] = 1,
+	[2233232554] = 1,
+	[2423749450] = 1,
+	[578111346] = 0,
+	[3483002306] = 1,
+	[3130142114] = 1,
+	[3589817602] = 1,
+	[2991038410] = 1,
+}
+QuestieTrackedQuests = {
+	[3233580066] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Steelsnap's Rib: 0/1",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "Steelsnap",
+		["level"] = 30,
+		["tracked"] = false,
+	},
+}
+QuestieConfig = {
+	["trackerAlpha"] = 0.4,
+	["minLevelFilter"] = false,
+	["maxShowLevel"] = 3,
+	["showToolTips"] = true,
+	["getVersion"] = 3.69,
+	["hideMinimapIcons"] = false,
+	["arrowEnabled"] = true,
+	["hideObjectives"] = false,
+	["boldColors"] = false,
+	["showMapAids"] = true,
+	["trackerBackground"] = false,
+	["trackerEnabled"] = true,
+	["corpseArrow"] = true,
+	["showProfessionQuests"] = false,
+	["trackerScale"] = 1,
+	["resizeWorldmap"] = false,
+	["alwaysShowQuests"] = true,
+	["minShowLevel"] = 5,
+	["trackerMinimize"] = false,
+	["showTrackerHeader"] = false,
+	["trackerList"] = false,
+	["maxLevelFilter"] = false,
+}
+QuestieTrackerVariables = {
+	["position"] = {
+		["relativeTo"] = "UIParent",
+		["point"] = "LEFT",
+		["relativePoint"] = "LEFT",
+		["yOfs"] = 0,
+		["xOfs"] = 0,
+	},
+}
