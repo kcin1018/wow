@@ -1,9 +1,9 @@
 
 AtlasLootOptions = {
 	["EquipCompare"] = false,
-	["DefaultTT"] = true,
-	["ItemSyncTT"] = false,
 	["AllLinks"] = false,
+	["ItemSyncTT"] = false,
+	["DefaultTT"] = true,
 	["SafeLinks"] = true,
 	["LootlinkTT"] = false,
 }

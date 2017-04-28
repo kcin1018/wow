@@ -1,11 +1,11 @@
 
 postal_Characters = {
 	["Elysium|Horde"] = {
-		["Fizbun"] = 112751.721,
-		["Adofo"] = 258392.343,
-		["Gilza"] = 113896.535,
+		["Fizbun"] = 289335.345,
+		["Fulmin"] = 281898.588,
+		["Gilza"] = 279053.95,
 		["Barkinator"] = 114156.788,
-		["Macre"] = 278396.301,
-		["Fulmin"] = 114946.697,
+		["Macre"] = 287932.033,
+		["Adofo"] = 258392.343,
 	},
 }

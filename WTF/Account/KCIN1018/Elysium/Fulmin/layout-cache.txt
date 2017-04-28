@@ -16,6 +16,10 @@ X: 1228
 Y: -854
 W: 444
 H: 162
+Frame: ItemRefTooltip
+FrameLevel: 1
+X: 777
+Y: -448
 Frame: DecursiveAfflictedListFrame
 FrameLevel: 1
 X: 284

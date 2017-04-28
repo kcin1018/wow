@@ -1,0 +1,24 @@
+
+ChronometerDB = {
+	["profiles"] = {
+		["Default"] = {
+			["barheight"] = 30,
+			["detachedTooltip"] = {
+				["fontSizePercent"] = 1,
+			},
+			["iconposition"] = "RIGHT",
+			["barposition"] = {
+				["y"] = -275,
+				["x"] = 1190,
+			},
+			["textsize"] = 14,
+		},
+		["realm/Elysium - Horde"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+	["currentProfile"] = {
+		["Gilza of Elysium"] = "realm",
+	},
+}
