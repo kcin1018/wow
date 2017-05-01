@@ -16,6 +16,7 @@ ChronometerDB = {
 		},
 		["realm/Elysium - Horde"] = {
 			["detachedTooltip"] = {
+				["fontSizePercent"] = 1,
 			},
 		},
 	},
